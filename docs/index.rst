@@ -3,7 +3,7 @@ How to Cancel RoboForm Subscription Easily?
 
 In the digital age, password managers like RoboForm have become an essential tool for keeping our online accounts safe and secure. RoboForm, with its strong encryption, password generation, and easy-to-use features, has garnered a large user base. However, not every user may need it indefinitely, or some may want to explore alternatives. If you find yourself in the position where you wish to cancel your **RoboForm subscription**, this guide will walk you through the steps, ensuring the process is straightforward and hassle-free.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: cancel.png
    :alt: My Project Logo
    :width: 400px
    :align: center
